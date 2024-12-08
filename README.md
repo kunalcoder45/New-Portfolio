@@ -2,9 +2,11 @@
 
 Welcome to my personal portfolio website! This site serves as a showcase of my skills, projects, and professional journey as a developer. It reflects my passion for web development and highlights some of the projects I've worked on.
 
+
 **🚀 Live Preview**
 
-Visit the website: kunalportfolio45.netlify.app
+Visit the website: https://kunalportfolio45.netlify.app
+
 
 **📝 About the Website**
 
@@ -20,6 +22,7 @@ Resume: A downloadable version of my professional resume.
 
 Contact Me: Easy ways to get in touch for collaborations, job opportunities, or discussions.
 
+
 **🛠 Built With**
 
 Frontend: HTML, CSS3
@@ -29,6 +32,7 @@ Backend: Javascript (for dynamic functionalities)
 Deployment: Hosted on Netlify for a seamless and fast web experience.
 
 Tools Used: Visual Studio Code, GitHub
+
 
 **🌟 Features**
 
@@ -50,6 +54,7 @@ LinkedIn: Kunal Sharma
 GitHub: kunalcoder45
 
 Feel free to reach out for collaborations, feedback, or job opportunities!
+
 
 **📜 License**
 
