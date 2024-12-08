@@ -30,30 +30,15 @@ Clean UI/UX: Intuitive navigation and visually appealing design.
 Dynamic Portfolio Section: Showcases featured projects with detailed descriptions and links to live demos and source code.
 Contact Form: Direct messaging option for networking and collaborations.
 
-📄 How to Use
-
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/kunalsingh04/Portfolio.git
-Install Dependencies:
-
-bash
-Copy code
-npm install
-Run the Application:
-
-bash
-Copy code
-npm start
-Visit the local environment at http://localhost:3000.
 
 🤝 Connect with Me
 
 Email: kunalcoder45@gmail.com
+
 LinkedIn: Kunal Sharma
+
 GitHub: kunalcoder45
+
 Feel free to reach out for collaborations, feedback, or job opportunities!
 
 📜 License
