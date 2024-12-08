@@ -11,23 +11,33 @@ Visit the website: Kunal Portfolio
 This portfolio was built to provide a comprehensive overview of my work, including:
 
 About Me: An introduction to who I am, my passion for coding, and my professional background.
+
 Skills: A summary of the technologies and tools I have experience with, including HTML, CSS, JavaScript, React, and more.
+
 Projects: A curated list of my key projects, complete with descriptions, technologies used, and live demos or GitHub links.
+
 Resume: A downloadable version of my professional resume.
+
 Contact Me: Easy ways to get in touch for collaborations, job opportunities, or discussions.
 
 🛠 Built With
 
-Frontend: React.js, CSS3, Tailwind CSS
-Backend: Node.js (for dynamic functionalities)
+Frontend: HTML, CSS3
+
+Backend: Javascript (for dynamic functionalities)
+
 Deployment: Hosted on Netlify for a seamless and fast web experience.
-Tools Used: Visual Studio Code, Git, GitHub
+
+Tools Used: Visual Studio Code, GitHub
 
 🌟 Features
 
 Responsive Design: Works seamlessly on mobile, tablet, and desktop devices.
+
 Clean UI/UX: Intuitive navigation and visually appealing design.
+
 Dynamic Portfolio Section: Showcases featured projects with detailed descriptions and links to live demos and source code.
+
 Contact Form: Direct messaging option for networking and collaborations.
 
 
