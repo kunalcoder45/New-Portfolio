@@ -1,12 +1,12 @@
-Portfolio Website - Kunal Sharma
+**Portfolio Website - Kunal Sharma**
 
 Welcome to my personal portfolio website! This site serves as a showcase of my skills, projects, and professional journey as a developer. It reflects my passion for web development and highlights some of the projects I've worked on.
 
-🚀 Live Preview
+**🚀 Live Preview**
 
-Visit the website: Kunal Portfolio
+Visit the website: kunalportfolio45.netlify.app
 
-📝 About the Website
+**📝 About the Website**
 
 This portfolio was built to provide a comprehensive overview of my work, including:
 
@@ -20,7 +20,7 @@ Resume: A downloadable version of my professional resume.
 
 Contact Me: Easy ways to get in touch for collaborations, job opportunities, or discussions.
 
-🛠 Built With
+**🛠 Built With**
 
 Frontend: HTML, CSS3
 
@@ -30,7 +30,7 @@ Deployment: Hosted on Netlify for a seamless and fast web experience.
 
 Tools Used: Visual Studio Code, GitHub
 
-🌟 Features
+**🌟 Features**
 
 Responsive Design: Works seamlessly on mobile, tablet, and desktop devices.
 
@@ -41,7 +41,7 @@ Dynamic Portfolio Section: Showcases featured projects with detailed description
 Contact Form: Direct messaging option for networking and collaborations.
 
 
-🤝 Connect with Me
+**🤝 Connect with Me**
 
 Email: kunalcoder45@gmail.com
 
@@ -51,6 +51,6 @@ GitHub: kunalcoder45
 
 Feel free to reach out for collaborations, feedback, or job opportunities!
 
-📜 License
+**📜 License**
 
 This project is open-source and available under the MIT License.
