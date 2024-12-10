@@ -113,11 +113,6 @@ body {
     opacity: .7;
 }
 
-.navbar a.active {
-    color: var(--main-color);
-    text-decoration: underline var(--main-color) 2px;
-}
-
 #darkMode-icon {
     font-size: 2.4rem;
     color: var(--white-color);
