@@ -823,7 +823,8 @@ h2 {
     background: var(--main-color);
 }
 
-.footer-text p , .footer-text span {
+.footer-text p,
+.footer-text span {
     font-size: 1.6rem;
     color: var(--white-color);
 }
